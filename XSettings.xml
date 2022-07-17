@@ -1,11 +1,5 @@
 <?xml version="1.0"?>
 <Settings>
-  <WIN32 MD5="4CEFDA6D0FC97C8CD44E5EB9C4EF06BF">
-    <NEW="https://gitee.com/SuperHDDR/SuperLibrary/attach_files/1129287/download/SuperExecuteToolx32"> 
-    <URL="https://gitee.com/SuperHDDR/SuperLibrary/attach_files/1128580/download/SuperRing0x32">
-  </WIN32>
-  <WIN64 MD5="C6F715DD72F25D17CA485F13E6222C95">
-    <NEW="https://gitee.com/SuperHDDR/SuperLibrary/attach_files/1129288/download/SuperExecuteToolx64">
-    <URL="https://gitee.com/SuperHDDR/SuperLibrary/attach_files/1128581/download/SuperRing0x64">
-  </WIN64>
+  <WIN32 MD5="4CEFDA6D0FC97C8CD44E5EB9C4EF06BF" NEW="https://gitee.com/SuperHDDR/SuperLibrary/attach_files/1129287/download/SuperExecuteToolx32" URL="https://gitee.com/SuperHDDR/SuperLibrary/attach_files/1128580/download/SuperRing0x32"/>
+  <WIN64 MD5="C6F715DD72F25D17CA485F13E6222C95" NEW="https://gitee.com/SuperHDDR/SuperLibrary/attach_files/1129288/download/SuperExecuteToolx64" URL="https://gitee.com/SuperHDDR/SuperLibrary/attach_files/1128581/download/SuperRing0x64"/>
 </Settings>
